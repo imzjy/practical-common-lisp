@@ -1,0 +1,2 @@
+
+((:|TITLE| "Empire State of Mind" :|ARTIST| "Alicia Keys" :|RATING| 12. :|RIPPED| |COMMON-LISP|::|T|) (:|TITLE| "We are not alone" :|ARTIST| "Michael" :|RATING| 100. :|RIPPED| |COMMON-LISP|::|T|) (:|TITLE| "We see in Heaven" :|ARTIST| "Sccot Kellys" :|RATING| 9. :|RIPPED| |COMMON-LISP|::|NIL|) (:|TITLE| "The way to Go" :|ARTIST| "Jerry" :|RATING| 8. :|RIPPED| |COMMON-LISP|::|T|)) 
